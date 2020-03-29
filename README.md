@@ -10,7 +10,7 @@ statistics (representing the distance a typical member of a given
 population moves in a day) at the US admin1 (state) and admin2
 (county) level.  A technical report describing the motivation behind
 this work with methodology and definitions is available at
-[http://descarteslabs.com/mobility-v097](https://www.descarteslabs.com/mobility-v097).
+[descarteslabs.com/mobility-v097](https://www.descarteslabs.com/mobility-v097).
 We intend to update the data in this repository regularly.
 
 ## Mobility Data
@@ -64,16 +64,16 @@ with other data sets.
 
 ## License and Attribution
 
-This data is licensed under Creative Commons Attribution 4.0
-International (CC BY 4.0), which requires attribution to "Descartes
+This data is licensed under a [Creative Commons Attribution 4.0
+International License](https://creativecommons.org/licenses/by/4.0/), which requires attribution to "Descartes
 Labs."  Scientific publications may cite,
 
-Warren, Michael S. & Skillman, Samuel W. *"Mobility Changes in Response
-to COVID-19"*.  Descartes Labs Technical
-Report. 2020. [https://www.descarteslabs.com/mobility-v097/](https://www.descarteslabs.com/mobility-v097)
+Warren, Michael S. & Skillman, Samuel W. "Mobility Changes in Response
+to COVID-19".  *Descartes Labs Technical
+Report*. 2020. [www.descarteslabs.com/mobility-v097/](https://www.descarteslabs.com/mobility-v097)
 
 For online use, please additionally link to our page at
-[https://descarteslabs.com/mobility/](https://descarteslabs.com/mobility/).
+[descarteslabs.com/mobility/](https://descarteslabs.com/mobility/).
 
 See the [LICENSE](LICENSE) for the terms of use for this data.
 
@@ -85,3 +85,20 @@ If you have questions, please contact us at:
 
 We also encourage you to register with us in order to receive updates about the
 analysis methodology or changes to this data.
+
+## Related Press Coverage
+
+* *New York Times* - [How Has Your State Reacted to Social
+  Distancing?](https://www.nytimes.com/interactive/2020/03/23/opinion/coronavirus-economy-recession.html). March
+  23, 2020.
+* *Axios* - [Mobile location data shows just how much travel has dropped off](https://www.axios.com/coronavirus-travel-9596d671-0a07-4586-841c-45bb31d20d7b.html) March 25, 2020.
+* *GeekWire* - [Pandemic data mining underscores the importance of
+  social distancing in China — and in
+  Seattle](https://www.geekwire.com/2020/pandemic-data-mining-underscores-importance-social-distancing-china-seattle/)
+  March 25, 2020.
+* *Los Angeles Times* - [Empty freeways, canceled flights: How life in
+  California has changed since the coronavirus
+  outbreak](https://www.latimes.com/projects/california-coronavirus-effects-how-life-changed/)
+  March 26, 2020
+* *Albuquerque Journal* - [Closing in on a Killer](https://www.abqjournal.com/1437618). March 29, 2020.
+* *New York Times* - Where Social Distance is Practiced, and Isn't (Sunday Review, Print Edition). March 29, 2020.
