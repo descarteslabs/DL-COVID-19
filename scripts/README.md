@@ -47,3 +47,8 @@
 - If you choose to use the `--start_date` and `--end_date` flags, the date should be in ISO standard format (e.g YYYY-MM-DD ).
 
 - Plots become difficult to interpret if you compare too many AOIs. For that reason, we recommend limiting your comparisons to less than 20.
+
+
+## Dependencies
+
+We use [Poetry](https://python-poetry.org/) to manage dependencies. After [installing Poetry](https://python-poetry.org/docs/#installation) and cloning this repository, just run `poetry install && poetry shell` from within the repo. Poetry will create a virtual environment, install the necessary dependencies, and launch a sub-shell within that virtual environment. Then you can run the scripts as described above.
