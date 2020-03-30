@@ -13,7 +13,7 @@
 
 ### Arguments:
 
-`--location` : A list of administrative units to plot. Can be a list of counties, states, or mixture of both. Case insensitive. Default is a list of six states: California, Texas, New York, Illinois, Washington, Florida.
+`--location` : A list of administrative units to plot. Can be a list of counties, states, or mixture of both. Case insensitive. Default is a list of six states: California, Texas, New York, Illinois, Washington, and Florida.
 
 `--category`: Type of administrative units. Options are "state", "county", "both", or "rank". "rank" is available if a state is specified as the location and will choose the counties with the highest mobility index in the state. Default is state.
 
