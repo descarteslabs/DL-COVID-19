@@ -89,16 +89,23 @@ analysis methodology or changes to this data.
 ## Related Press Coverage
 
 * *New York Times* - [How Has Your State Reacted to Social
-  Distancing?](https://www.nytimes.com/interactive/2020/03/23/opinion/coronavirus-economy-recession.html). March
+  Distancing?](https://www.nytimes.com/interactive/2020/03/23/opinion/coronavirus-economy-recession.html) March
   23, 2020.
-* *Axios* - [Mobile location data shows just how much travel has dropped off](https://www.axios.com/coronavirus-travel-9596d671-0a07-4586-841c-45bb31d20d7b.html) March 25, 2020.
+* *Axios* - [Mobile location data shows just how much travel has dropped off](https://www.axios.com/coronavirus-travel-9596d671-0a07-4586-841c-45bb31d20d7b.html). March 25, 2020.
 * *GeekWire* - [Pandemic data mining underscores the importance of
   social distancing in China — and in
-  Seattle](https://www.geekwire.com/2020/pandemic-data-mining-underscores-importance-social-distancing-china-seattle/)
+  Seattle](https://www.geekwire.com/2020/pandemic-data-mining-underscores-importance-social-distancing-china-seattle/).
   March 25, 2020.
 * *Los Angeles Times* - [Empty freeways, canceled flights: How life in
   California has changed since the coronavirus
-  outbreak](https://www.latimes.com/projects/california-coronavirus-effects-how-life-changed/)
-  March 26, 2020
+  outbreak](https://www.latimes.com/projects/california-coronavirus-effects-how-life-changed/).
+  March 26, 2020.
 * *Albuquerque Journal* - [Closing in on a Killer](https://www.abqjournal.com/1437618). March 29, 2020.
 * *New York Times* - Where Social Distance is Practiced, and Isn't (Sunday Review, Print Edition). March 29, 2020.
+* *Medium Coronavirus Blog* - [A Graph to Watch](https://coronavirus.medium.com/a-graph-to-watch-b86f37e12d80). March 30, 2020.
+* *ABC 6 Philadelphia* - [INTERACTIVE: Cell phone data shows residents staying at home during COVID-19 outbreak](https://6abc.com/covid19-new-jersey-delaware-pennsylvania-philadelphia/6064079/). March 30, 2020.
+* *ABC 7 Chicago* - [Coronavirus Chicago: Cell phone data shows Cook County travel plummets after stay-at-home order](https://abc7chicago.com/health/cell-phone-data-shows-chicagoans-are-in-fact-staying-home-during-pandemic/6063906/). March 30, 2020.
+* *ABC 7 Los Angeles* - [Coronavirus: Physical distancing lags in Inland Empire, data shows](https://abc7.com/inland-empire-california-san-bernardino-socal/6063550/). March 30, 2020.
+* *ABC 11 Raleigh* - [Cellphone data shows how well North Carolina counties are following social distancing rules](https://abc11.com/health/hows-north-carolina-doing-with-social-distancing-weve-got-the-data/6064282/). March 30, 2020.
+* *ABC 13 Houston* - [Cell phone data shows people moving around less after stay-at-home order](https://abc13.com/houston-stay-home-order-are-people-really-following-in-lockdown-shelter-place/6064419/). March 30, 2020.
+* *San Francisco Business Times* - [Bay Area transit is running almost empty in midst of COVID-19 shutdown](https://www.bizjournals.com/sanfrancisco/news/2020/03/31/bay-area-transit-is-running-almost-empty-in-midst.html). March 31, 2020.
