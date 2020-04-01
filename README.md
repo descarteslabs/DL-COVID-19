@@ -107,4 +107,7 @@ analysis methodology or changes to this data.
 * *ABC 7 Los Angeles* - [Coronavirus: Physical distancing lags in Inland Empire, data shows](https://abc7.com/inland-empire-california-san-bernardino-socal/6063550/). March 30, 2020.
 * *ABC 11 Raleigh* - [Cellphone data shows how well North Carolina counties are following social distancing rules](https://abc11.com/health/hows-north-carolina-doing-with-social-distancing-weve-got-the-data/6064282/). March 30, 2020.
 * *ABC 13 Houston* - [Cell phone data shows people moving around less after stay-at-home order](https://abc13.com/houston-stay-home-order-are-people-really-following-in-lockdown-shelter-place/6064419/). March 30, 2020.
+* *ABC 30 Fresno* - [Valley residents traveling farther than most Californians, cell phone data shows](https://abc30.com/health/valley-residents-traveling-farther-than-most-californians/6066684/) March 31, 2020.
 * *San Francisco Business Times* - [Bay Area transit is running almost empty in midst of COVID-19 shutdown](https://www.bizjournals.com/sanfrancisco/news/2020/03/31/bay-area-transit-is-running-almost-empty-in-midst.html). March 31, 2020.
+* *PBS Arizona* - [Why the air in metro Phoenix is fresher these days](https://cronkitenews.azpbs.org/2020/04/01/why-the-air-in-metro-phoenix-is-fresher-these-days/). April 1, 2020.
+* *WBAL Maryland* - [Data shows social distancing during coronavirus pandemic works](https://www.wbaltv.com/article/coronavirus-pandemic-social-distancing-data/32007539). April 1, 2020.
