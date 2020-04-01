@@ -69,8 +69,7 @@ International License](https://creativecommons.org/licenses/by/4.0/), which requ
 Labs."  Scientific publications may cite,
 
 Warren, Michael S. & Skillman, Samuel W. "Mobility Changes in Response
-to COVID-19".  *Descartes Labs Technical
-Report*. 2020. [www.descarteslabs.com/mobility-v097/](https://www.descarteslabs.com/mobility-v097)
+to COVID-19". *arXiv:2003.14228 [cs.SI]*, Mar. 2020. [arxiv.org/abs/2003.14228](https://arxiv.org/abs/2003.14228)
 
 For online use, please additionally link to our page at
 [descarteslabs.com/mobility/](https://descarteslabs.com/mobility/).
