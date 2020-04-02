@@ -111,3 +111,5 @@ analysis methodology or changes to this data.
 * *San Francisco Business Times* - [Bay Area transit is running almost empty in midst of COVID-19 shutdown](https://www.bizjournals.com/sanfrancisco/news/2020/03/31/bay-area-transit-is-running-almost-empty-in-midst.html). March 31, 2020.
 * *PBS Arizona* - [Why the air in metro Phoenix is fresher these days](https://cronkitenews.azpbs.org/2020/04/01/why-the-air-in-metro-phoenix-is-fresher-these-days/). April 1, 2020.
 * *WBAL Maryland* - [Data shows social distancing during coronavirus pandemic works](https://www.wbaltv.com/article/coronavirus-pandemic-social-distancing-data/32007539). April 1, 2020.
+* *Tucson Sentinel* - [Fresh air in Phoenix: ADEQ collecting data on CV-19 impact on emissions](http://www.tucsonsentinel.com/local/report/040220_cv_air_pollution/fresh-air-phoenix-adeq-collecting-data-cv-19-impact-emissions/). April 2, 2020
+
