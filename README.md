@@ -112,4 +112,6 @@ analysis methodology or changes to this data.
 * *PBS Arizona* - [Why the air in metro Phoenix is fresher these days](https://cronkitenews.azpbs.org/2020/04/01/why-the-air-in-metro-phoenix-is-fresher-these-days/). April 1, 2020.
 * *WBAL Maryland* - [Data shows social distancing during coronavirus pandemic works](https://www.wbaltv.com/article/coronavirus-pandemic-social-distancing-data/32007539). April 1, 2020.
 * *Tucson Sentinel* - [Fresh air in Phoenix: ADEQ collecting data on CV-19 impact on emissions](http://www.tucsonsentinel.com/local/report/040220_cv_air_pollution/fresh-air-phoenix-adeq-collecting-data-cv-19-impact-emissions/). April 2, 2020
-
+* *Minnesota Star Tribune* - [Minnesota's COVID-19 response shows promise in helping to slow virus](https://www.startribune.com/keep-it-up-minnesota-covid-19-response-shows-promise/569384442/). April 5, 2020
+* *Albuquerque Journal* - [Tech startups, manufacturers help during crisis](https://www.abqjournal.com/1440528/tech-startups-manufacturers-help-during-crisis.html). April 6, 2020
+* *Washington Daily News* - [Beaufort County gets ‘F’ in social distancing](https://www.thewashingtondailynews.com/2020/04/06/beaufort-county-gets-f-in-social-distancing/). April 6, 2020
