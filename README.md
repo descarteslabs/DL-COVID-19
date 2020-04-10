@@ -85,6 +85,13 @@ If you have questions, please contact us at:
 We also encourage you to register with us in order to receive updates about the
 analysis methodology or changes to this data.
 
+## Citations
+
+Song Gao, Jinmeng Rao, Yuhao Kang, Yunlei Liang, Jake Kruse, "Mapping
+county-level mobility pattern changes in the United States in response
+to COVID-19". *arXiv:2004.04544 [physics.soc-ph]*,
+Apr. 2020. [arxiv.org/abs/2004.04544](https://arxiv.org/abs/2004.04544)
+
 ## Related Press Coverage
 
 * *New York Times* - [How Has Your State Reacted to Social
@@ -117,3 +124,6 @@ analysis methodology or changes to this data.
 * *Fox News* - [Smartphones can track how much people are staying home](https://video.foxnews.com/v/6147456838001). April 6, 2020.
 * *Washington Daily News* - [Beaufort County gets ‘F’ in social distancing](https://www.thewashingtondailynews.com/2020/04/06/beaufort-county-gets-f-in-social-distancing/). April 6, 2020.
 * *ABC 7 New York* - [Coronavirus News: Some states more successful than others at staying home](https://abc7ny.com/travel/some-states-more-successful-than-others-at-staying-home-data-shows/6082621/). April 7, 2020.
+* *Albuquerque Journal* - [NM residents cut travel amid outbreak](https://www.abqjournal.com/1441809/nm-residents-cut-travel-amid-outbreak.html). April 8, 2020.
+* *CNN* - [New Mexico using cell phone data to create social distancing models and considering more restrictive travel measures](https://www.cnn.com/2020/04/09/us/new-mexico-cell-phone-data-track-residents/index.html). April 9, 2020.
+* *The Virginian-Pilot* - [Travel in Hampton Roads has dropped dramatically amid the pandemic — and it appears to be helping](https://www.pilotonline.com/news/transportation/vp-nw-coronavirus-hampton-roads-traffic-20200410-nqgvbaohbngu7ohaaif2yi7yga-story.html). April 10, 2020.
