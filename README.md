@@ -126,4 +126,6 @@ Apr. 2020. [arxiv.org/abs/2004.04544](https://arxiv.org/abs/2004.04544)
 * *ABC 7 New York* - [Coronavirus News: Some states more successful than others at staying home](https://abc7ny.com/travel/some-states-more-successful-than-others-at-staying-home-data-shows/6082621/). April 7, 2020.
 * *Albuquerque Journal* - [NM residents cut travel amid outbreak](https://www.abqjournal.com/1441809/nm-residents-cut-travel-amid-outbreak.html). April 8, 2020.
 * *CNN* - [New Mexico using cell phone data to create social distancing models and considering more restrictive travel measures](https://www.cnn.com/2020/04/09/us/new-mexico-cell-phone-data-track-residents/index.html). April 9, 2020.
+* *Los Alamos Monitor* - [Los Alamos gets high marks in latest virus update](https://www.lamonitor.com/content/los-alamos-gets-high-marks-latest-virus-update). April 10, 2020.
 * *The Virginian-Pilot* - [Travel in Hampton Roads has dropped dramatically amid the pandemic — and it appears to be helping](https://www.pilotonline.com/news/transportation/vp-nw-coronavirus-hampton-roads-traffic-20200410-nqgvbaohbngu7ohaaif2yi7yga-story.html). April 10, 2020.
+* *WRAL Raleigh* - [COVID-19 mobility data highlights disparities in rural NC counties](https://www.wral.com/coronavirus/covid-19-mobility-data-highlights-disparities-in-rural-nc-counties/19046461/). April 10, 2020.
