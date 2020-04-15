@@ -62,6 +62,14 @@ with other data sets.
 - **m50**: The median of the max-distance mobility for all samples in the specified region.
 - **m50_index**: The percent of normal m50 in the region, with normal m50 defined during 2020-02-17 to 2020-03-07.
 
+## Visualization and Analysis
+
+* *GeoDS Lab @ UW-Madison* - [geods.geography.wisc.edu/covid19/physical-distancing/](https://geods.geography.wisc.edu/covid19/physical-distancing/)
+
+* *Descartes Labs* - [www.descarteslabs.com/mobility/#overview](https://www.descarteslabs.com/mobility/#overview)
+
+* *Nik Haldimann* - [Lockdown Hack #2: Towards proving that social distancing works](https://blog.nikhaldimann.com/2020/04/14/lockdown-hack-2-towards-proving-that-social-distancing-works/)
+
 ## License and Attribution
 
 This data is licensed under a [Creative Commons Attribution 4.0
