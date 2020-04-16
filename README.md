@@ -70,6 +70,8 @@ with other data sets.
 
 * *Nik Haldimann* - [Lockdown Hack #2: Towards proving that social distancing works](https://blog.nikhaldimann.com/2020/04/14/lockdown-hack-2-towards-proving-that-social-distancing-works/)
 
+* *Ballad Health* - [COVID-19 Physical Distancing Scorecard](https://www.balladhealth.org/covid-19-physical-distancing-scorecard)
+
 ## License and Attribution
 
 This data is licensed under a [Creative Commons Attribution 4.0
@@ -137,3 +139,5 @@ Apr. 2020. [arxiv.org/abs/2004.04544](https://arxiv.org/abs/2004.04544)
 * *Los Alamos Monitor* - [Los Alamos gets high marks in latest virus update](https://www.lamonitor.com/content/los-alamos-gets-high-marks-latest-virus-update). April 10, 2020.
 * *The Virginian-Pilot* - [Travel in Hampton Roads has dropped dramatically amid the pandemic — and it appears to be helping](https://www.pilotonline.com/news/transportation/vp-nw-coronavirus-hampton-roads-traffic-20200410-nqgvbaohbngu7ohaaif2yi7yga-story.html). April 10, 2020.
 * *WRAL Raleigh* - [COVID-19 mobility data highlights disparities in rural NC counties](https://www.wral.com/coronavirus/covid-19-mobility-data-highlights-disparities-in-rural-nc-counties/19046461/). April 10, 2020.
+* *Denver Post* - [How Gov. Polis recruited private engineers to analyze Colorado cellphone data during coronavirus crisis](https://www.denverpost.com/2020/04/15/polis-coronavirus-cellphone-tracking-movement/). April 15, 2020.
+* *USAID Policy* - [COVID-19 and New Pathways for Development Data](https://medium.com/@USAIDPPL/covid-19-and-new-pathways-for-development-data-43f852d3d03f). April 16, 2020.
