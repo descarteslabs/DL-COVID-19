@@ -13,6 +13,8 @@ this work with methodology and definitions is available at
 [descarteslabs.com/mobility-v097](https://www.descarteslabs.com/mobility-v097).
 We intend to update the data in this repository regularly.
 
+Note: Data for 2020-04-20 did not meet quality control standards, and was not released.
+
 ## Mobility Data
 
 [NDJSON](https://github.com/ndjson/ndjson-spec) format data can be found in the
