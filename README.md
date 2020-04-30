@@ -74,6 +74,8 @@ with other data sets.
 
 * *Ballad Health* - [COVID-19 Physical Distancing Scorecard](https://www.balladhealth.org/covid-19-physical-distancing-scorecard)
 
+* *The Institute for Health Metrics and Evaluation (IHME)* - [COVID-19: What’s New for April 17, 2020](http://www.healthdata.org/sites/default/files/files/Projects/COVID/Estimation_update_041720.pdf)
+
 ## License and Attribution
 
 This data is licensed under a [Creative Commons Attribution 4.0
@@ -103,6 +105,24 @@ Song Gao, Jinmeng Rao, Yuhao Kang, Yunlei Liang, Jake Kruse, "Mapping
 county-level mobility pattern changes in the United States in response
 to COVID-19". *arXiv:2004.04544 [physics.soc-ph]*,
 Apr. 2020. [arxiv.org/abs/2004.04544](https://arxiv.org/abs/2004.04544)
+
+Shuo Chen, Qin Li, Song Gao, Yuhao Kang, Xun Shi, "Mitigating COVID-19
+outbreak via high testing capacity and strong
+transmission-intervention in the United States". *medRxiv*, Apr. 2020.
+[www.medrxiv.org/content/10.1101/2020.04.03.20052720v1](https://www.medrxiv.org/content/10.1101/2020.04.03.20052720v1)
+
+IHME COVID-19 health service utilization forecasting team, Christopher
+JL Murray, "Forecasting the impact of the first wave of the COVID-19
+pandemic on hospital demand and deaths for the USA and European
+Economic Area countries". *medRxiv*, Apr. 2020.
+[www.medrxiv.org/content/10.1101/2020.04.21.20074732v1](https://www.medrxiv.org/content/10.1101/2020.04.21.20074732v1)
+
+Song Gao, Jinmeng Rao, Yuhao Kang, Yunlei Liang, Jake Kruse, Doerte
+Doepfer, Ajay K. Sethi, Juan Francisco Mandujano Reyes, Jonathan Patz,
+Brian S. Yandell, "Mobile phone location data reveal the effect and
+geographic variation of social distancing on the spread of the
+COVID-19 epidemic". *arXiv:2004.11430 [cs.SI]*,
+Apr. 2020. [arxiv.org/abs/2004.11430](https://arxiv.org/abs/2004.11430)
 
 ## Related Press Coverage
 
