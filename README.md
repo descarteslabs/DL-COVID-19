@@ -76,6 +76,8 @@ with other data sets.
 
 * *The Institute for Health Metrics and Evaluation (IHME)* - [COVID-19: What’s New for April 17, 2020](http://www.healthdata.org/sites/default/files/files/Projects/COVID/Estimation_update_041720.pdf)
 
+* *DataHaven (Regional Data Cooperative)* - [COVID-19 in Connecticut](https://ct-data-haven.github.io/covidpub)
+
 ## License and Attribution
 
 This data is licensed under a [Creative Commons Attribution 4.0
@@ -124,6 +126,11 @@ geographic variation of social distancing on the spread of the
 COVID-19 epidemic". *arXiv:2004.11430 [cs.SI]*,
 Apr. 2020. [arxiv.org/abs/2004.11430](https://arxiv.org/abs/2004.11430)
 
+Sepehr Ghader, Jun Zhao, Minha Lee, Weiyi Zhou, Guangchen Zhao, Lei
+Zhang, "Observed mobility behavior data reveal social distancing
+inertia". *arXiv:2004.14748 [cs.CY]*,
+Apr 2020. [arxiv.org/abs/2004.14748](https://arxiv.org/abs/2004.14748)
+
 ## Related Press Coverage
 
 * *New York Times* - [How Has Your State Reacted to Social
@@ -165,3 +172,6 @@ Apr. 2020. [arxiv.org/abs/2004.11430](https://arxiv.org/abs/2004.11430)
 * *USAID Policy* - [COVID-19 and New Pathways for Development Data](https://medium.com/@USAIDPPL/covid-19-and-new-pathways-for-development-data-43f852d3d03f). April 16, 2020.
 * *KRQE Albuquerque* - [New Mexico based company helps state gauge social distancing](https://www.krqe.com/health/coronavirus-new-mexico/new-mexico-based-company-helps-state-gauge-social-distancing/). April 16, 2020.
 * *Washington Post* - [Governments around the world are trying a new weapon against coronavirus: Your smartphone](https://www.washingtonpost.com/technology/2020/04/17/governments-around-world-are-trying-new-weapon-against-coronavirus-your-smartphone/). April 17, 2020.
+* *Albuquerque Journal* - [State traffic down, not as much as hoped](https://www.abqjournal.com/1450752/state-traffic-down-not-as-much-as-hoped.html). May 3, 2020.
+* *ABC 7 Los Angeles* - [CHP: 87% increase in tickets to drivers going more than 100 mph amid COVID-19 shutdown](https://abc7.com/traffic/chp-increase-in-tickets-to-extreme-speeders-amid-covid-19-shutdown/6153943/). May 5, 2020.
+* *Seven Days Vermont* - [Vermonters On the Move Again After Weeks Under Stay-Home Order](https://www.sevendaysvt.com/OffMessage/archives/2020/05/06/vermonters-on-the-move-again-after-weeks-under-stay-home-order). May 6, 2020.
