@@ -78,6 +78,11 @@ with other data sets.
 
 * *DataHaven (Regional Data Cooperative)* - [COVID-19 in Connecticut](https://ct-data-haven.github.io/covidpub)
 
+* *Mathematical Humanity Lab, Dartmouth College* - [When and how will
+  the COVID-19 pandemic end in the United States?](https://fudab.github.io/covid-19/us)
+
+* *Beyond Limits* - [Beyond Limits Coronavirus Dynamic Predictive Model](https://www.beyond.ai/news/beyond-limits-builds-dynamic-forecasting-model-to-help-in-fight-against-covid-19/)
+
 ## License and Attribution
 
 This data is licensed under a [Creative Commons Attribution 4.0
@@ -131,6 +136,19 @@ Zhang, "Observed mobility behavior data reveal social distancing
 inertia". *arXiv:2004.14748 [cs.CY]*,
 Apr 2020. [arxiv.org/abs/2004.14748](https://arxiv.org/abs/2004.14748)
 
+Nabarun Dasgupta, Michele Jonsson Funk, Allison Lazard, Benjamin
+Eugene White, Stephen W. Marshall, "Quantifying the social distancing
+privilege gap: a longitudinal study of smartphone
+movement". *medRxiv*, May 2020.
+[www.medrxiv.org/content/10.1101/2020.05.03.20084624v1](https://www.medrxiv.org/content/10.1101/2020.05.03.20084624v1)
+
+Donghai Liang, Liuhua Shi, Jingxuan Zhao, Pengfei Liu, Joel Schwartz,
+Song Gao, Jeremy A Sarnat, Yang Liu, Stefanie T Ebelt, Noah C
+Scovronick, Howard Chang, "Urban Air Pollution May Enhance COVID-19
+Case-Fatality and Mortality Rates in the United States". *medRxiv*, May 2020.
+[www.medrxiv.org/content/10.1101/2020.05.04.20090746v1](https://www.medrxiv.org/content/10.1101/2020.05.04.20090746v1)
+
+
 ## Related Press Coverage
 
 * *New York Times* - [How Has Your State Reacted to Social
@@ -175,3 +193,8 @@ Apr 2020. [arxiv.org/abs/2004.14748](https://arxiv.org/abs/2004.14748)
 * *Albuquerque Journal* - [State traffic down, not as much as hoped](https://www.abqjournal.com/1450752/state-traffic-down-not-as-much-as-hoped.html). May 3, 2020.
 * *ABC 7 Los Angeles* - [CHP: 87% increase in tickets to drivers going more than 100 mph amid COVID-19 shutdown](https://abc7.com/traffic/chp-increase-in-tickets-to-extreme-speeders-amid-covid-19-shutdown/6153943/). May 5, 2020.
 * *Seven Days Vermont* - [Vermonters On the Move Again After Weeks Under Stay-Home Order](https://www.sevendaysvt.com/OffMessage/archives/2020/05/06/vermonters-on-the-move-again-after-weeks-under-stay-home-order). May 6, 2020.
+* *Boston 25 News* - [Researchers: Cellular data shows more Mass. residents are traveling farther](https://www.boston25news.com/news/health/researchers-cellular-data-shows-more-mass-residents-are-traveling-further/ZUGDMLMLIREDHOIQYZU22PONYM/). May 7, 2020.
+* *Tampa Bay Times* - [How Florida slowed coronavirus: Everyone stayed
+  home before they were told
+  to](https://www.tampabay.com/news/health/2020/05/10/how-florida-slowed-coronavirus-everyone-stayed-home-before-they-were-told-to/). May
+  10, 2020.
