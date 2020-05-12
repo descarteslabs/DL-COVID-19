@@ -198,3 +198,5 @@ Case-Fatality and Mortality Rates in the United States". *medRxiv*, May 2020.
   home before they were told
   to](https://www.tampabay.com/news/health/2020/05/10/how-florida-slowed-coronavirus-everyone-stayed-home-before-they-were-told-to/). May
   10, 2020.
+* *Axios* - [National mobility rising, signaling driving's revival](https://www.axios.com/coronavirus-national-mobility-rising-signaling-driving-revival-c598f3b3-ec8e-42ed-9eec-cc837ae08b93.html). May 12, 2020
+  * *Magnolia State Live* - [Will people be willing to venture out as state reopens? Data suggests yes … but slowly](https://www.magnoliastatelive.com/2020/05/12/will-people-be-willing-to-venture-out-as-state-reopens-data-suggests-yes-but-slowly/). May 12, 2020.
