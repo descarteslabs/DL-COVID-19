@@ -200,3 +200,4 @@ Case-Fatality and Mortality Rates in the United States". *medRxiv*, May 2020.
   10, 2020.
 * *Axios* - [National mobility rising, signaling driving's revival](https://www.axios.com/coronavirus-national-mobility-rising-signaling-driving-revival-c598f3b3-ec8e-42ed-9eec-cc837ae08b93.html). May 12, 2020.
 * *Magnolia State Live* - [Will people be willing to venture out as state reopens? Data suggests yes … but slowly](https://www.magnoliastatelive.com/2020/05/12/will-people-be-willing-to-venture-out-as-state-reopens-data-suggests-yes-but-slowly/). May 12, 2020.
+* *WCNC Charlotte* - [People are traveling farther from home lately, cell phone data shows](https://www.wcnc.com/article/news/investigations/investigators/data-shows-charlotte-area-residents-traveling-farther-from-home/275-6a3042b8-c768-46f8-a0fe-45206b70874c). May 18, 2020.
