@@ -148,6 +148,10 @@ Scovronick, Howard Chang, "Urban Air Pollution May Enhance COVID-19
 Case-Fatality and Mortality Rates in the United States". *medRxiv*, May 2020.
 [www.medrxiv.org/content/10.1101/2020.05.04.20090746v1](https://www.medrxiv.org/content/10.1101/2020.05.04.20090746v1)
 
+Grant McKenzie, Benjamin Adams, "A country comparison of place-based
+activity response to COVID-19 policies". *arXiv:2005.08738 [cs.SI]*,
+May 2020. [arxiv.org/abs/2005.08738](https://arxiv.org/abs/2005.08738)
+
 
 ## Related Press Coverage
 
@@ -201,3 +205,4 @@ Case-Fatality and Mortality Rates in the United States". *medRxiv*, May 2020.
 * *Axios* - [National mobility rising, signaling driving's revival](https://www.axios.com/coronavirus-national-mobility-rising-signaling-driving-revival-c598f3b3-ec8e-42ed-9eec-cc837ae08b93.html). May 12, 2020.
 * *Magnolia State Live* - [Will people be willing to venture out as state reopens? Data suggests yes … but slowly](https://www.magnoliastatelive.com/2020/05/12/will-people-be-willing-to-venture-out-as-state-reopens-data-suggests-yes-but-slowly/). May 12, 2020.
 * *WCNC Charlotte* - [People are traveling farther from home lately, cell phone data shows](https://www.wcnc.com/article/news/investigations/investigators/data-shows-charlotte-area-residents-traveling-farther-from-home/275-6a3042b8-c768-46f8-a0fe-45206b70874c). May 18, 2020.
+* *FOX 6 Milwaukee* - [Travel in Wisconsin dropped over 90% at one point during COVID-19 lockdown](https://fox6now.com/2020/05/20/travel-in-wisconsin-dropped-over-90-at-one-point-during-covid-19-lockdown/). May 20, 2020.
