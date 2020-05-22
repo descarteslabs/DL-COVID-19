@@ -10,7 +10,7 @@ statistics (representing the distance a typical member of a given
 population moves in a day) at the US admin1 (state) and admin2
 (county) level.  A technical report describing the motivation behind
 this work with methodology and definitions is available at
-[descarteslabs.com/mobility-v097](https://www.descarteslabs.com/mobility-v097).
+[arxiv.org/pdf/2003.14228.pdf](https://arxiv.org/pdf/2003.14228.pdf).
 We intend to update the data in this repository regularly.
 
 Note: Data for 2020-04-20 did not meet quality control standards, and was not released.
@@ -82,6 +82,10 @@ with other data sets.
   the COVID-19 pandemic end in the United States?](https://fudab.github.io/covid-19/us)
 
 * *Beyond Limits* - [Beyond Limits Coronavirus Dynamic Predictive Model](https://www.beyond.ai/news/beyond-limits-builds-dynamic-forecasting-model-to-help-in-fight-against-covid-19/)
+
+* *City of Los Angeles and RMDS* - [2020 COVID-19 Computational Challenge](https://grmds.org/2020challenge)
+
+* *Climate Central* - [Travel and Air Pollution During COVID-19](https://medialibrary.climatecentral.org/resources/travel-and-air-pollution-during-covid-19)
 
 ## License and Attribution
 
@@ -206,3 +210,4 @@ May 2020. [arxiv.org/abs/2005.08738](https://arxiv.org/abs/2005.08738)
 * *Magnolia State Live* - [Will people be willing to venture out as state reopens? Data suggests yes … but slowly](https://www.magnoliastatelive.com/2020/05/12/will-people-be-willing-to-venture-out-as-state-reopens-data-suggests-yes-but-slowly/). May 12, 2020.
 * *WCNC Charlotte* - [People are traveling farther from home lately, cell phone data shows](https://www.wcnc.com/article/news/investigations/investigators/data-shows-charlotte-area-residents-traveling-farther-from-home/275-6a3042b8-c768-46f8-a0fe-45206b70874c). May 18, 2020.
 * *FOX 6 Milwaukee* - [Travel in Wisconsin dropped over 90% at one point during COVID-19 lockdown](https://fox6now.com/2020/05/20/travel-in-wisconsin-dropped-over-90-at-one-point-during-covid-19-lockdown/). May 20, 2020.
+* *NBC 6 South Florida* - [Much of South Florida Open, But Experts Say it May Take a While for Shoppers to Return](https://www.nbcmiami.com/news/local/much-of-south-florida-open-but-experts-say-it-may-take-a-while-for-shoppers-to-return/2236798/). May 21, 2020.
