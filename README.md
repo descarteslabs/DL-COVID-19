@@ -212,3 +212,6 @@ May 2020. [arxiv.org/abs/2005.08738](https://arxiv.org/abs/2005.08738)
 * *FOX 6 Milwaukee* - [Travel in Wisconsin dropped over 90% at one point during COVID-19 lockdown](https://fox6now.com/2020/05/20/travel-in-wisconsin-dropped-over-90-at-one-point-during-covid-19-lockdown/). May 20, 2020.
 * *NBC 6 South Florida* - [Much of South Florida Open, But Experts Say it May Take a While for Shoppers to Return](https://www.nbcmiami.com/news/local/much-of-south-florida-open-but-experts-say-it-may-take-a-while-for-shoppers-to-return/2236798/). May 21, 2020.
 * *New York Times* - [The Coronavirus Is Deadliest Where Democrats Live](https://www.nytimes.com/2020/05/25/us/politics/coronavirus-red-blue-states.html). May 25, 2020.
+* *Axios* - [National mobility keeps rising as more states reopen
+  economies](https://www.axios.com/people-driving-more-be63dcc9-a2eb-400a-ae63-c6bf3911ecc8.html).
+  May 29, 2020.
