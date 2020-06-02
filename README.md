@@ -13,7 +13,7 @@ this work with methodology and definitions is available at
 [arxiv.org/pdf/2003.14228.pdf](https://arxiv.org/pdf/2003.14228.pdf).
 We intend to update the data in this repository regularly.
 
-Note: Data for 2020-04-20 did not meet quality control standards, and was not released.
+Note: Data for 2020-04-20 and 2020-05-29 did not meet quality control standards, and was not released.
 
 ## Mobility Data
 
