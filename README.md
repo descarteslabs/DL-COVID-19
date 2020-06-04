@@ -138,7 +138,7 @@ Apr. 2020. [arxiv.org/abs/2004.11430](https://arxiv.org/abs/2004.11430)
 Sepehr Ghader, Jun Zhao, Minha Lee, Weiyi Zhou, Guangchen Zhao, Lei
 Zhang, "Observed mobility behavior data reveal social distancing
 inertia". *arXiv:2004.14748 [cs.CY]*,
-Apr 2020. [arxiv.org/abs/2004.14748](https://arxiv.org/abs/2004.14748)
+Apr. 2020. [arxiv.org/abs/2004.14748](https://arxiv.org/abs/2004.14748)
 
 Nabarun Dasgupta, Michele Jonsson Funk, Allison Lazard, Benjamin
 Eugene White, Stephen W. Marshall, "Quantifying the social distancing
@@ -155,6 +155,12 @@ Case-Fatality and Mortality Rates in the United States". *medRxiv*, May 2020.
 Grant McKenzie, Benjamin Adams, "A country comparison of place-based
 activity response to COVID-19 policies". *arXiv:2005.08738 [cs.SI]*,
 May 2020. [arxiv.org/abs/2005.08738](https://arxiv.org/abs/2005.08738)
+
+Teodoro Alamo, D. G. Reina, Pablo Millán, "Data-Driven Methods to
+Monitor, Model, Forecast and Control Covid-19 Pandemic: Leveraging
+Data Science, Epidemiology and Control Theory". *arXiv:2006.01731
+[q-bio.PE]*,
+June 2020. [arxiv.org/abs/2006.01731](https://arxiv.org/abs/2006.01731)
 
 
 ## Related Press Coverage
