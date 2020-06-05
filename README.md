@@ -221,3 +221,6 @@ June 2020. [arxiv.org/abs/2006.01731](https://arxiv.org/abs/2006.01731)
 * *Axios* - [National mobility keeps rising as more states reopen
   economies](https://www.axios.com/people-driving-more-be63dcc9-a2eb-400a-ae63-c6bf3911ecc8.html).
   May 29, 2020.
+* *WCVB Boston* - [Cellphone data shows Massachusetts is
+  moving](https://www.wcvb.com/article/cellphone-data-shows-massachusetts-is-on-the-move/32771942). June
+  5, 2020.
