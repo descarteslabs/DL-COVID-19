@@ -87,6 +87,8 @@ with other data sets.
 
 * *Climate Central* - [Travel and Air Pollution During COVID-19](https://medialibrary.climatecentral.org/resources/travel-and-air-pollution-during-covid-19)
 
+* *Russ Gerber* - [Communicating Disease - The Startup - Medium](https://medium.com/swlh/communicating-disease-56f8b72dc2f0)
+
 ## License and Attribution
 
 This data is licensed under a [Creative Commons Attribution 4.0
@@ -162,6 +164,8 @@ Data Science, Epidemiology and Control Theory". *arXiv:2006.01731
 [q-bio.PE]*,
 June 2020. [arxiv.org/abs/2006.01731](https://arxiv.org/abs/2006.01731)
 
+Ivan Franch-Pardo, Brian M. Napoletano, Fernando Rosete-Verges and Lawal Billa. "Spatial analysis and GIS in the study of COVID-19. A review." *Science of The Total Environment*, June 2020. 140033. [www.sciencedirect.com/science/article/pii/S0048969720335531](https://www.sciencedirect.com/science/article/pii/S0048969720335531)
+
 
 ## Related Press Coverage
 
@@ -224,3 +228,12 @@ June 2020. [arxiv.org/abs/2006.01731](https://arxiv.org/abs/2006.01731)
 * *WCVB Boston* - [Cellphone data shows Massachusetts is
   moving](https://www.wcvb.com/article/cellphone-data-shows-massachusetts-is-on-the-move/32771942). June
   5, 2020.
+* *KRQE Albuquerque* - [Mobility up in New Mexico as state
+  reopens](https://www.krqe.com/health/coronavirus-new-mexico/mobility-up-in-new-mexico-as-state-reopens/). June
+  11, 2020.
+* *Miami Herald* - [A NUMBERS GAME Floridians flattened the COVID
+curve. Then, amid upbeat talk, the numbers began to
+rise](https://www.miamiherald.com/news/coronavirus/article243363086.html). June
+12, 2020.
+* *Miami Herald* - [A NUMBERS GAME
+The Florida COVID-19 data said one thing while Gov. DeSantis sometimes said another](https://www.miamiherald.com/news/politics-government/state-politics/article242937591.html). June 12, 2020.
