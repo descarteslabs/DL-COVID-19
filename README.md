@@ -89,6 +89,8 @@ with other data sets.
 
 * *Russ Gerber* - [Communicating Disease - The Startup - Medium](https://medium.com/swlh/communicating-disease-56f8b72dc2f0)
 
+* *Hawaii Data Collaborative* - [Tracking COVID-19 In Hawaii](https://www.hawaiidata.org/covid19)
+
 ## License and Attribution
 
 This data is licensed under a [Creative Commons Attribution 4.0
@@ -237,3 +239,7 @@ rise](https://www.miamiherald.com/news/coronavirus/article243363086.html). June
 12, 2020.
 * *Miami Herald* - [A NUMBERS GAME
 The Florida COVID-19 data said one thing while Gov. DeSantis sometimes said another](https://www.miamiherald.com/news/politics-government/state-politics/article242937591.html). June 12, 2020.
+* *WCNC Charlotte* - [Location Data: June 5 marked most active day in
+  Mecklenburg County since March
+  13](https://www.wcnc.com/article/news/health/coronavirus/location-data-june-5-marked-most-active-day-in-mecklenburg-county-since-march-13/275-ccbdc5ad-7073-416a-aaf0-599cb3a1161e). June
+  12, 2020.
