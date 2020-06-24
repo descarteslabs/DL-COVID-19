@@ -91,6 +91,8 @@ with other data sets.
 
 * *Hawaii Data Collaborative* - [Tracking COVID-19 In Hawaii](https://www.hawaiidata.org/covid19)
 
+* *Center for Data Innovation* - [Visualizing How Far People Are Traveling in the United States](https://www.datainnovation.org/2020/06/visualizing-how-far-people-are-traveling-in-the-united-states/)
+
 ## License and Attribution
 
 This data is licensed under a [Creative Commons Attribution 4.0
@@ -243,3 +245,5 @@ The Florida COVID-19 data said one thing while Gov. DeSantis sometimes said anot
   Mecklenburg County since March
   13](https://www.wcnc.com/article/news/health/coronavirus/location-data-june-5-marked-most-active-day-in-mecklenburg-county-since-march-13/275-ccbdc5ad-7073-416a-aaf0-599cb3a1161e). June
   12, 2020.
+* *IHME* - [New IHME COVID-19 Model Projects Nearly 180,000 US Deaths](http://www.healthdata.org/news-release/new-ihme-covid-19-model-projects-nearly-180000-us-deaths). June 24, 2020.
+* *TechRepublic* - [Travel is making a comeback–just not by plane](https://www.techrepublic.com/article/travel-is-making-a-comeback-just-not-by-plane/). June 24, 2020.
