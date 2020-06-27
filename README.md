@@ -247,3 +247,4 @@ The Florida COVID-19 data said one thing while Gov. DeSantis sometimes said anot
   12, 2020.
 * *IHME* - [New IHME COVID-19 Model Projects Nearly 180,000 US Deaths](http://www.healthdata.org/news-release/new-ihme-covid-19-model-projects-nearly-180000-us-deaths). June 24, 2020.
 * *TechRepublic* - [Travel is making a comeback–just not by plane](https://www.techrepublic.com/article/travel-is-making-a-comeback-just-not-by-plane/). June 24, 2020.
+* *Tampa Bay Times* - [Florida’s coronavirus spike: 5 things to know](https://www.tampabay.com/news/health/2020/06/26/floridas-coronavirus-spike-5-things-to-know/). June 26, 2020.
