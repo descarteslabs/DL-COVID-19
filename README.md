@@ -248,3 +248,4 @@ The Florida COVID-19 data said one thing while Gov. DeSantis sometimes said anot
 * *IHME* - [New IHME COVID-19 Model Projects Nearly 180,000 US Deaths](http://www.healthdata.org/news-release/new-ihme-covid-19-model-projects-nearly-180000-us-deaths). June 24, 2020.
 * *TechRepublic* - [Travel is making a comeback–just not by plane](https://www.techrepublic.com/article/travel-is-making-a-comeback-just-not-by-plane/). June 24, 2020.
 * *Tampa Bay Times* - [Florida’s coronavirus spike: 5 things to know](https://www.tampabay.com/news/health/2020/06/26/floridas-coronavirus-spike-5-things-to-know/). June 26, 2020.
+* *Forbes* - [Fourth Of July Holiday Day Travel This Year Is Going To Be, Well, Different, Thanks To Coronavirus](https://www.forbes.com/sites/danielreed/2020/07/01/fourth-of-july-holiday-day-travel-this-year-is-going-to-be-well-different-thanks-to-covid-19/#5d56277ce981).  July 1, 2020.
