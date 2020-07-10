@@ -170,6 +170,12 @@ June 2020. [arxiv.org/abs/2006.01731](https://arxiv.org/abs/2006.01731)
 
 Ivan Franch-Pardo, Brian M. Napoletano, Fernando Rosete-Verges and Lawal Billa. "Spatial analysis and GIS in the study of COVID-19. A review." *Science of The Total Environment*, June 2020. 140033. [www.sciencedirect.com/science/article/pii/S0048969720335531](https://www.sciencedirect.com/science/article/pii/S0048969720335531)
 
+Petrônio CL Silva, Paulo VC Batista, Hélder S. Lima, Marcos A. Alves,
+Frederico G. Guimarães, and Rodrigo CP Silva. "COVID-ABS: An
+Agent-Based Model of COVID-19 Epidemic to Simulate Health and Economic
+Effects of Social Distancing Interventions." *Chaos, Solitons &
+Fractals, July 2020. 110088. [www.sciencedirect.com/science/article/abs/pii/S0960077920304859](https://www.sciencedirect.com/science/article/abs/pii/S0960077920304859)
+
 
 ## Related Press Coverage
 
@@ -249,4 +255,10 @@ The Florida COVID-19 data said one thing while Gov. DeSantis sometimes said anot
 * *TechRepublic* - [Travel is making a comeback–just not by plane](https://www.techrepublic.com/article/travel-is-making-a-comeback-just-not-by-plane/). June 24, 2020.
 * *Tampa Bay Times* - [Florida’s coronavirus spike: 5 things to know](https://www.tampabay.com/news/health/2020/06/26/floridas-coronavirus-spike-5-things-to-know/). June 26, 2020.
 * *Forbes* - [Fourth Of July Holiday Day Travel This Year Is Going To Be, Well, Different, Thanks To Coronavirus](https://www.forbes.com/sites/danielreed/2020/07/01/fourth-of-july-holiday-day-travel-this-year-is-going-to-be-well-different-thanks-to-covid-19/#5d56277ce981). July 1, 2020.
-* *Axios* - [How the coronavirus pandemic changed mobility habits, by state](https://www.axios.com/coronavirus-mobility-habits-by-state-272d3405-4c6b-4cdb-9ee2-fe8074b657d3.html). July 8, 2020.
+* *Axios* - [How the coronavirus pandemic changed mobility habits, by
+  state](https://www.axios.com/coronavirus-mobility-habits-by-state-272d3405-4c6b-4cdb-9ee2-fe8074b657d3.html). July
+  8, 2020.
+* *WCVB Boston* - [Researchers: Mass. residents leaving home almost as
+  much as before
+  pandemic](https://www.boston25news.com/news/health/researchers-mass-residents-leaving-home-almost-much-before-pandemic/W5SLADF44VETFMYOQMQSK4I2NI/). July
+  9, 2020.
