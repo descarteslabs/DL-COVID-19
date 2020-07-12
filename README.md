@@ -174,7 +174,7 @@ Petrônio CL Silva, Paulo VC Batista, Hélder S. Lima, Marcos A. Alves,
 Frederico G. Guimarães, and Rodrigo CP Silva. "COVID-ABS: An
 Agent-Based Model of COVID-19 Epidemic to Simulate Health and Economic
 Effects of Social Distancing Interventions." *Chaos, Solitons &
-Fractals, July 2020. 110088. [www.sciencedirect.com/science/article/abs/pii/S0960077920304859](https://www.sciencedirect.com/science/article/abs/pii/S0960077920304859)
+Fractals*, July 2020. 110088. [www.sciencedirect.com/science/article/abs/pii/S0960077920304859](https://www.sciencedirect.com/science/article/abs/pii/S0960077920304859)
 
 
 ## Related Press Coverage
