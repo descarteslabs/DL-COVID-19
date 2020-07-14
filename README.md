@@ -262,3 +262,7 @@ The Florida COVID-19 data said one thing while Gov. DeSantis sometimes said anot
   much as before
   pandemic](https://www.boston25news.com/news/health/researchers-mass-residents-leaving-home-almost-much-before-pandemic/W5SLADF44VETFMYOQMQSK4I2NI/). July
   9, 2020.
+* *The Hill* - [Virginia suburb of DC retains title as 'America's
+  Fittest
+  City'](https://thehill.com/blogs/blog-briefing-room/507094-virginia-suburb-of-dc-retains-title-as-americas-fittest-city). July
+  14, 2020.
