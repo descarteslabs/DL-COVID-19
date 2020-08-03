@@ -93,6 +93,8 @@ with other data sets.
 
 * *Center for Data Innovation* - [Visualizing How Far People Are Traveling in the United States](https://www.datainnovation.org/2020/06/visualizing-how-far-people-are-traveling-in-the-united-states/)
 
+* *Google Cloud AI and Harvard Global Health Institute* - [COVID-19 Public Forecasts](https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-is-releasing-the-covid-19-public-forecasts)
+
 ## License and Attribution
 
 This data is licensed under a [Creative Commons Attribution 4.0
@@ -266,3 +268,4 @@ The Florida COVID-19 data said one thing while Gov. DeSantis sometimes said anot
   Fittest
   City'](https://thehill.com/blogs/blog-briefing-room/507094-virginia-suburb-of-dc-retains-title-as-americas-fittest-city). July
   14, 2020.
+* *Venture Beat* - [Google and Harvard release COVID-19 prediction models](https://venturebeat.com/2020/08/03/google-and-harvard-release-covid-19-prediction-models/). August 3, 2020.
