@@ -178,6 +178,12 @@ Agent-Based Model of COVID-19 Epidemic to Simulate Health and Economic
 Effects of Social Distancing Interventions." *Chaos, Solitons &
 Fractals*, July 2020. 110088. [www.sciencedirect.com/science/article/abs/pii/S0960077920304859](https://www.sciencedirect.com/science/article/abs/pii/S0960077920304859)
 
+Xiao Huang, Zhenlong Li, Yuqin Jiang, Xinyue Ye, Chengbin Deng, Jiajia
+Zhang, Xiaoming Li, "The characteristics of multi-source mobility
+datasets and how they reveal the luxury nature of social distancing in
+the U.S. during the COVID-19 pandemic". *medRxiv*,
+Aug. 2020. [www.medrxiv.org/content/10.1101/2020.07.31.20143016v1](https://www.medrxiv.org/content/10.1101/2020.07.31.20143016v1)
+
 
 ## Related Press Coverage
 
