@@ -19,7 +19,7 @@
 
 `--weekend`: Option to include data from weekends (`--weekends`) or to exclude data from weekends (`--skip_weekends`). Defaults to exclude weekend data.
 
-`--start_date`: Start date for daily mobility indices. Defaults to "2020-03-02", which is the earliest date available to retreive data.
+`--start_date`: Start date for daily mobility indices. Defaults to "2020-03-02", which is the earliest date available to retrieve data.
 
 `--end_date`: End date for daily mobility indices. Defaults to the most recent date that data is available.
 
