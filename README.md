@@ -13,7 +13,7 @@ this work with methodology and definitions is available at
 [arxiv.org/pdf/2003.14228.pdf](https://arxiv.org/pdf/2003.14228.pdf).
 We intend to update the data in this repository regularly.
 
-Note: Data for 2020-04-20, 2020-05-29, 2020-10-08, 2020-12-11 through 2020-12-18, 2021-01-08 through 2021-01-14 and 2021-04-07 did not meet quality control standards, and was not released.
+Note: Data for 2020-04-20, 2020-05-29, 2020-10-08, 2020-12-11 through 2020-12-18, 2021-01-08 through 2021-01-14, 2021-04-07 and 2021-04-12 did not meet quality control standards, and was not released.
 
 ## Mobility Data
 
