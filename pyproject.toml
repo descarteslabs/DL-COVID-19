@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "dl-covid-19"
+version = "0.1.0"
+description = ""
+authors = ["Descartes Labs <dl-covid-19@descarteslabs.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.6"
+numpy = "^1.18.2"
+matplotlib = "^3.2.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
